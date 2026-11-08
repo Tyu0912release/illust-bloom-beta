@@ -67,7 +67,7 @@ Illust Bloom は、イラスト初心者のための練習サポートアプリ�
 
 不具合の報告や機能へのご要望、ご意見などがありましたら、以下の方法でご連絡ください。
 
-- X（旧Twitter）：Tyu☆(https://x.com/tyubukuro?sort=popular)へのリプライまたはDM
+- X（旧Twitter）：Tyu☆(https://x.com/tyubukuro?sort=popular)
 - メール：tohoyorozuen@yahoo.co.jp
 
 報告の際は、可能であれば以下の情報を添えていただけると助かります。
