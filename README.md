@@ -40,7 +40,7 @@ Illust Bloom は、イラスト初心者のための練習サポートアプリ�
 
 最新版のAPKは、以下のGitHubリリースページからダウンロードできます。
 
-**[Illust Bloom ダウンロードページ](【リリースページのURL】)**
+**[Illust Bloom ダウンロードページ](【[リリースページのURL](https://github.com/Tyu0912release/illust-bloom-beta/releases/download/v1.0.0-beta/illust-bloom-v1.0.0-beta.1.apk)】)**
 
 ## 📱 インストール方法
 
